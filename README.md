@@ -34,3 +34,6 @@ More about me:
   - VueJS <img height="11px" src="assets/vue.svg">
 - 🎧 Listening to: 
   - <a href="https://music.youtube.com/playlist?list=OLAK5uy_ksNRf9stkH3wG5UBSpOheZ6UxX-K02F-c" target="_blank">ODESZA <img height="12px" src="assets/odesza.svg"></a>
+- 🤩 Interested in:
+  - Formula 1
+  - Mountain Biking
