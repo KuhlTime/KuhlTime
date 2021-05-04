@@ -5,8 +5,6 @@
 <h4 align="center" style="margin-top: 32px">
   <a href="https://kuhlti.me">Website</a>
   &bull;
-  <a href="https://github.com/KuhlTime">GitHub</a>
-  &bull;
   <a href="https://twitter.com/KuhlTime">Twitter</a>
   &bull;
   <a href="www.linkedin.com/in/KuhlTime">LinkedIn</a>
