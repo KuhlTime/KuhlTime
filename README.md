@@ -1,6 +1,8 @@
-<img src="assets/gh-header-image.png" align="center">
+<p align="center">
+  <img src="assets/gh-header-image.png" stlye="max-height: 180px">
+</p>
 
-<h4 align="center" style="margin-top: 24px">
+<h4 align="center" style="margin-top: 32px">
   <a href="https://kuhlti.me">Website</a>
   &bull;
   <a href="https://github.com/KuhlTime">GitHub</a>
