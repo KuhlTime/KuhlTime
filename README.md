@@ -18,7 +18,7 @@
 
 Hi, my name is André. I am 23yo and I love programming. 
 
-I am a electrical engineer and information technology student at the University of Applied Science in Düsseldorf [HSD](https://hs-duesseldorf.de). 
+I am a electrical engineer and information technology student at [HSD](https://hs-duesseldorf.de). 
 
 More about me:
 - 🌏 Living in: Langenfeld, Germany 🇩🇪 🇪🇺
