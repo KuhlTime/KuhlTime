@@ -16,9 +16,21 @@
 
 <br>
 
+Hi, my name is André. I am 23yo and I love programming. 
+
+I am a electrical engineer and information technology student at the University of Applied Science in Düsseldorf [HSD](https://hs-duesseldorf.de). 
+
 More about me:
-- 🌏 Living in Langenfeld, Germany 🇩🇪 🇪🇺
-- 🔭 I’m currently working on a backend for [dfind](https://dfind.com)
-- 🌱 I’m currently learning Electrical Engineering 💥 and AWS
-- 💬 Ask me about Swift, JavaScript, TypeScript, NodeJS
-- 🎧 Listening to: ODESZA <a href="https://music.youtube.com/playlist?list=OLAK5uy_ksNRf9stkH3wG5UBSpOheZ6UxX-K02F-c" target="_blank"><img height="25px" src="assets/odesza.svg" align="center"></a>
+- 🌏 Living in: Langenfeld, Germany 🇩🇪 🇪🇺
+- 🔭 I’m currently working on: 
+  - A backend for [dfind](https://dfind.com)
+- 🌱 I’m currently learning: 
+  - Electrical Engineering 💥 
+  - AWS <img height="11px" src="assets/aws.svg">
+- 💬 Ask me about: 
+  - Swift <img height="11px" src="assets/swift.svg">
+  - JavaScript <img height="11px" src="assets/javascript.svg">
+  - TypeScript <img height="11px" src="assets/typescript.svg">
+  - NodeJS <img height="11px" src="assets/node.svg">
+- 🎧 Listening to: 
+  - <a href="https://music.youtube.com/playlist?list=OLAK5uy_ksNRf9stkH3wG5UBSpOheZ6UxX-K02F-c" target="_blank">ODESZA <img height="12px" src="assets/odesza.svg"></a>
