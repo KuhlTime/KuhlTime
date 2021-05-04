@@ -25,12 +25,14 @@ More about me:
 - 🔭 I’m currently working on: 
   - A backend for [dfind](https://dfind.com)
 - 🌱 I’m currently learning: 
-  - Electrical Engineering 💥 
   - AWS <img height="11px" src="assets/aws.svg">
+  - Electrical Engineering 💥 
 - 💬 Ask me about: 
-  - Swift <img height="11px" src="assets/swift.svg">
   - JavaScript <img height="11px" src="assets/javascript.svg">
-  - TypeScript <img height="11px" src="assets/typescript.svg">
   - NodeJS <img height="11px" src="assets/node.svg">
+  - Python <img height="11px" src="assets/python.svg">
+  - Swift <img height="11px" src="assets/swift.svg">
+  - TypeScript <img height="11px" src="assets/typescript.svg">
+  - VueJS <img height="11px" src="assets/vue.svg">
 - 🎧 Listening to: 
   - <a href="https://music.youtube.com/playlist?list=OLAK5uy_ksNRf9stkH3wG5UBSpOheZ6UxX-K02F-c" target="_blank">ODESZA <img height="12px" src="assets/odesza.svg"></a>
