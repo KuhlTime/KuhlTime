@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="assets/gh-header-image.png" align="center">
 
-<!--
-**KuhlTime/KuhlTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center" style="margin-top: 24px">
+  <a href="https://kuhlti.me">Website</a>
+  &bull;
+  <a href="https://github.com/KuhlTime">GitHub</a>
+  &bull;
+  <a href="https://twitter.com/KuhlTime">Twitter</a>
+  &bull;
+  <a href="www.linkedin.com/in/KuhlTime">LinkedIn</a>
+  &bull;
+  <a href="https://stackoverflow.com/users/story/4179020">StackOverflow</a>
+</h4>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me:
+- 🌏 Living in Langenfeld, Germany 🇩🇪 🇪🇺
+- 🔭 I’m currently working on a backend for [dfind](https://dfind.com)
+- 🌱 I’m currently learning Electrical Engineering 💥 and AWS
+- 💬 Ask me about Swift, JavaScript, TypeScript, NodeJS
+- 🎧 Listening to: ODESZA <a href="https://music.youtube.com/playlist?list=OLAK5uy_ksNRf9stkH3wG5UBSpOheZ6UxX-K02F-c" target="_blank"><img height="25px" src="assets/odesza.svg" align="center"></a>
