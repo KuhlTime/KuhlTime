@@ -7,7 +7,7 @@
   &bull;
   <a href="https://twitter.com/KuhlTime">Twitter</a>
   &bull;
-  <a href="www.linkedin.com/in/KuhlTime">LinkedIn</a>
+  <a href="https://linkedin.com/in/KuhlTime">LinkedIn</a>
   &bull;
   <a href="https://stackoverflow.com/users/story/4179020">StackOverflow</a>
 </h4>
