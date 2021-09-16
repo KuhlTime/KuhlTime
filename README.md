@@ -21,7 +21,7 @@ I am an electrical engineering / information technology student at [HSD](https:/
 More about me:
 - 🌏 Living in: Langenfeld, Germany 🇩🇪 🇪🇺
 - 🔭 I’m currently working on: 
-  - A backend for [dfind](https://dfind.com)
+  - Full-Stack, Dev-Ops [@dfind](https://dfind.com)
 - 🌱 I’m currently learning: 
   - AWS <img height="11px" src="assets/aws.svg">
   - Electrical Engineering 💥 
