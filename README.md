@@ -14,8 +14,6 @@
 
 <br>
 
-![Hi Fredi](https://img.shields.io/badge/java-master-%23f89820)
-
 Hi, my name is André. I am 23yo and I love programming. 
 
 I am an electrical engineering / information technology student at [HSD](https://hs-duesseldorf.de). 
