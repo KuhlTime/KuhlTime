@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/gh-header-image.png" style="max-height: 180px">
-</p>
+<h1 align="center">Hi, I'm André 👋</h1>
+
+<p align="center"><span>I'm a 23yo <code>Student</code>, <code>Developer</code>, <code>Engineer</code> and a <code>Master of Procrastination</code>.</span></p>
 
 <h4 align="center" style="margin-top: 32px">
   <a href="https://kuhlti.me">Website</a>
@@ -12,28 +12,66 @@
   <a href="https://stackoverflow.com/users/story/4179020">StackOverflow</a>
 </h4>
 
-<br>
+<table><tr><td valign="top" width="50%">
 
-Hi, my name is André. I am 23yo and I love programming. 
+**About Me**
 
-I am an electrical engineering / information technology student at [HSD](https://hs-duesseldorf.de). 
+<ul>
+  <li>
+   ✨ Born in 1998 (23yo)
+	</li>
+  <li>
+    🌍 🇩🇪 Living in Langenfeld, Germany<br>(near Düsseldorf / Cologne)
+	</li>
+  <li>
+   🚲 🏎 Interested in Mountainbiking, Formula 1, Sports and Nerd Talk
+	</li>
+</ul>
+	
+</td>
+<td valign="top" width="50%" rowspan="2">
 
-More about me:
-- 🌏 Living in: Langenfeld, Germany 🇩🇪 🇪🇺
-- 🔭 I’m currently working on: 
-  - Full-Stack, Dev-Ops [@emmysoft](https://emmysoft.de)
-- 🌱 I’m currently learning: 
-  - AWS <img height="11px" src="assets/aws.svg">
-  - Electrical Engineering 💥 
-- 💬 Ask me about: 
-  - JavaScript <img height="11px" src="assets/javascript.svg">
-  - NodeJS <img height="11px" src="assets/node.svg">
-  - Python <img height="11px" src="assets/python.svg">
-  - Swift <img height="11px" src="assets/swift.svg">
-  - TypeScript <img height="11px" src="assets/typescript.svg">
-  - VueJS <img height="11px" src="assets/vue.svg">
-- 🎧 Listening to: 
-  - <a href="https://music.youtube.com/playlist?list=OLAK5uy_ksNRf9stkH3wG5UBSpOheZ6UxX-K02F-c" target="_blank">ODESZA <img height="12px" src="assets/odesza.svg"></a>
-- 🤩 Interested in:
-  - Formula 1
-  - Mountain Biking
+**Skills**
+	
+<ul>
+  <li>
+    <img src="assets/swift.svg" width="24" height="24" align="top">
+		<a href="https://apple.com/swift/" target="_blank">swift</a> - A robust and intuitive programming language created by Apple for building apps for iOS, Mac, Apple TV, and Apple Watch.
+	</li>
+  <li>
+    <img src="assets/typescript.svg" width="24" height="24" align="top">
+		<a href="https://typescriptlang.org/" target="_blank">typescript</a> - A strongly typed programming language which builds on JavaScript giving you better tooling at any scale.
+	</li>
+  <li>
+    <img src="assets/node.svg" width="24" height="24" align="top">
+		<a href="https://nodejs.org" target="_blank">nodejs</a> - A JavaScript runtime built on Chrome's V8 JavaScript engine.
+	</li>
+	<li>
+    <img src="assets/vue.svg" width="24" height="24" align="top">
+		<a href="https://github.com/vuejs" target="_blank">vuejs</a> - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
+	</li>
+  <li>
+    <img src="assets/python.svg" width="24" height="24" align="top">
+		<a href="https://python.org/" target="_blank">python</a> - An interpreted, object-oriented, high-level programming language with dynamic semantics.
+	</li>
+</ul>
+
+</td></tr><tr><td valign="top" width="50%">
+
+**Work**
+<ul>
+	<li>
+    <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
+    - Student for Electrical Engineering and Information Technology.
+	</li>
+	<li>
+    <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
+    - Student Assistantant (Software Engineering, Embedded Systems and Operating Systems).
+	</li>
+  <li>
+    <img src="https://avatars.githubusercontent.com/u/77275286?s=72&v=4" width="24" height="24" align="top">
+    <a href="https://dfind.com" target="_blank">dfind</a> - Full-Stack, DevOps Working Student. Responsible for the development of a nodejs backend hosted on AWS. 
+	</li>
+</ul>
+
+</td></tr></table>
