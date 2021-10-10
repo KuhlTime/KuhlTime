@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm André 👋</h1>
 
-<p align="center"><span>I'm a <code>Student</code>, <code>Developer</code>, <code>Engineer</code>.</span></p>
+<p align="center"><span>I'm a <code>Student</code>, <code>Developer</code> and <code>Engineer</code>.</span></p>
 
 <h4 align="center" style="margin-top: 32px">
   <a href="https://kuhlti.me">Website</a>
