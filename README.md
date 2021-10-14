@@ -54,6 +54,10 @@
     <img src="assets/python.svg" width="24" height="24" align="top">
 		<a href="https://python.org/" target="_blank">python</a> - An interpreted, object-oriented, high-level programming language with dynamic semantics.
 	</li>
+	<li>
+    <img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" width="24" height="24" align="top">
+		<a href="https://arduino.org/" target="_blank">arduino</a> / embedded - Familiar with the development of embedded devices on ARM processors, ESP32s and Raspberry PIs.
+	</li>
 </ul>
 
 </td></tr><tr><td valign="top" width="50%">
