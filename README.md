@@ -24,7 +24,7 @@
     🌍 🇩🇪 Living in Langenfeld, Germany<br>(near Düsseldorf / Cologne)
 	</li>
   <li>
-   🚲 🏎 Interested in Mountainbiking, Formula 1, Sports and Nerd Talk
+   🚲 🏎 Interested in Mountainbiking, Formula 1, Sports and Nerdism
 	</li>
 </ul>
 	
