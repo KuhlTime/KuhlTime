@@ -62,19 +62,19 @@
 
 </td></tr><tr><td valign="top" width="50%">
 
-**Work**
+**Work / Education**
 <ul>
 	<li>
     <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-    - Student for Electrical Engineering and Information Technology.
+    - Student for Electrical Engineering and Information Technology. (2017-today)
 	</li>
 	<li>
     <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-    - Student Assistantant (Software Engineering, Embedded Systems and Operating Systems).
+    - Student Assistantant (Software Engineering, Embedded Systems and Operating Systems). (2020-today)
 	</li>
   <li>
     <img src="https://avatars.githubusercontent.com/u/77275286?s=72&v=4" width="24" height="24" align="top">
-    <a href="https://dfind.com" target="_blank">dfind</a> - Full-Stack, DevOps Working Student. Responsible for the development of a nodejs backend hosted on AWS. 
+    <a href="https://dfind.com" target="_blank">dfind</a> - Full-Stack, DevOps Working Student. Responsible for the development of a nodejs backend hosted on AWS. (2021-today)
 	</li>
 </ul>
 
