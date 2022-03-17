@@ -73,7 +73,7 @@
     - Student Assistantant (Software Engineering, Embedded Systems and Operating Systems).<br>(2020-2022)
 	</li>
   <li>
-    <img src="https://avatars.githubusercontent.com/u/77275286?s=72&v=4" width="24" height="24" align="top">
+    <img src="assets/dfind.png" width="24" height="24" align="top">
     <a href="https://dfind.com" target="_blank">dfind</a> - Full-Stack, DevOps Working Student. Responsible for the development of a nodejs backend hosted on AWS. <br> (2021-today)
 	</li>
 </ul>
