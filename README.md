@@ -76,7 +76,7 @@
   <li>
     <img src="assets/dfind.png" width="24" height="24" align="top">
     <a href="https://dfind.com" target="_blank">dfind</a> 
-    <img src="https://emmysoft.com/wp-content/themes/emmysoft/assets/img/LOGO_EmmySoft_3D.svg" width="24" height="24" align="top">
+    <img src="assets/emmysoft.svg" width="24" height="24" align="top">
     <a href="https://emmysoft.com" target="_blank">EmmySoft</a>
     - Full-Stack, DevOps Working Student. Responsible for the development of a nodejs backend hosted on AWS. <br> (2021-today)
 	</li>
