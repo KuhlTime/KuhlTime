@@ -71,7 +71,7 @@
 	</li>
 	<li>
     <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-    - Student Assistantant (Software Engineering, Embedded Systems and Operating Systems).<br>(2020-2022)
+    - Teaching Assistant (Software Engineering, Embedded Systems and Operating Systems).<br>(2020-2022)
 	</li>
   <li>
     <img src="assets/dfind.png" width="24" height="24" align="top">
