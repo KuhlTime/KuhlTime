@@ -57,12 +57,15 @@
    </tr>
    <tr>
       <td valign="top" width="50%">
-         <b>Work / Education</b>
+         <b>Education</b>
          <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
                - Student for Electrical Engineering and Information Technology.<br>(2017-2022)
             </li>
+         </ul>
+         <b>Work</b>
+         <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
                - Teaching Assistant (Software Engineering, Embedded Systems and Operating Systems).<br>(2020-2022)
