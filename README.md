@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm André 👋</h1>
-<p align="center"><span>I'm a <code>Student</code>, <code>Developer</code> and <code>Engineer</code>.</span></p>
+<p align="center"><span>I'm a passionate <code>Developer</code> and <code>Engineer</code>.</span></p>
 <h4 align="center" style="margin-top: 32px">
    <a href="https://kuhlti.me">Website</a>
    &bull;
@@ -21,7 +21,7 @@
                🌍 🇩🇪 Living in Langenfeld, Germany<br>(near Düsseldorf / Cologne)
             </li>
             <li>
-               🚲 🏎 Interested in Mountainbiking, Formula 1, Sports and Nerdism
+               🌳 🏎 🎹 Interested in Nature, Formula 1, Piano playing, Sports and Nerdism
             </li>
          </ul>
       </td>
@@ -61,7 +61,7 @@
          <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-               - Student for Electrical Engineering and Information Technology.<br>(2017-2022)
+               - Student for Electrical Engineering and Information Technology. With a specialization in Computer Sciences.<br>Grade: 1.9<br>(2017-2022)
             </li>
          </ul>
          <b>Work</b>
