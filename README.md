@@ -12,7 +12,7 @@
 <table>
    <tr>
       <td valign="top" width="50%">
-         **About Me**
+         <b>About Me</b>
          <ul>
             <li>
                ✨ Born in 1998 (24yo)
@@ -26,7 +26,7 @@
          </ul>
       </td>
       <td valign="top" width="50%" rowspan="2">
-         **Skills**
+         <b>Skills</b>
          <ul>
             <li>
                <img src="assets/swift.svg" width="24" height="24" align="top">
@@ -57,7 +57,7 @@
    </tr>
    <tr>
       <td valign="top" width="50%">
-         **Work / Education**
+         <b>Work / Education</b>
          <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
