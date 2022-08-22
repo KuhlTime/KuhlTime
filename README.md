@@ -61,7 +61,7 @@
          <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-               - Student for Electrical Engineering and Information Technology. With a specialization in Computer Sciences.<br>Grade: 1.9<br>(2017-2022)
+               - B.Eng. in Electrical Engineering and Information Technology. With a specialization in Computer Sciences.<br>Grade: 1.9<br>(2017-2022)
             </li>
          </ul>
          <b>Work</b>
