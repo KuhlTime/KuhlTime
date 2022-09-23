@@ -24,7 +24,7 @@
                🌳 🏎 🎹 🍳 Interested in Nature, Formula 1, Piano playing, Sports and Nerdism
             </li>
             <li>
-               ❤️ Listening to <a href="https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL">Lex Fridman</a> and <a href="https://www.youtube.com/c/fireship">Jeff Delaney</a> aka Fireship when going to sleep.
+               ❤️ Listening to <a href="https://www.youtube.com/watch?v=Z9XwSGS-A6I">ODESZA</a>, <a href="https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL">Lex Fridman</a> and <a href="https://www.youtube.com/c/fireship">Jeff Delaney</a> aka Fireship when going to sleep.
             </li>
          </ul>
       </td>
