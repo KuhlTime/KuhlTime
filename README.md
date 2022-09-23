@@ -21,7 +21,10 @@
                🌍 🇩🇪 Living in Langenfeld, Germany<br>(near Düsseldorf / Cologne)
             </li>
             <li>
-               🌳 🏎 🎹 Interested in Nature, Formula 1, Piano playing, Sports and Nerdism
+               🌳 🏎 🎹 🍳 Interested in Nature, Formula 1, Piano playing, Sports and Nerdism
+            </li>
+            <li>
+               ❤️ Listening to <a href="https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL">Lex Fridman</a> and <a href="https://www.youtube.com/c/fireship">Jeff Delaney</a> aka Fireship when going to sleep.
             </li>
          </ul>
       </td>
