@@ -77,11 +77,10 @@
                <a href="https://emmysoft.com" target="_blank">EmmySoft</a>
                - Full-Stack, DevOps Working Student. Responsible for developing a wide variaty of applications. <br> (2021-2022)
             </li>
-            
             <li>
                <img src="assets/emmysoft.svg" width="24" height="24" align="top">
                <a href="https://emmysoft.com" target="_blank">EmmySoft</a>
-               - Software Engineer. Developing the EmmySuite. <br> (2022-today)
+               <span>- Software Engineer. Creating all sorts of wonderful software products. <br> (2022-today)</span>
             </li>
          </ul>
       </td>
