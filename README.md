@@ -64,7 +64,11 @@
          <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-               - B.Eng. in Electrical Engineering and Information Technology. With a specialization in Computer Sciences.<br>Grade: 1.9<br>(2017-2022)
+               - B. Eng. in Electrical Engineering and Information Technology. With a specialization in Computer Sciences.<br>Grade: 1.9<br>(2017-2022)
+            </li>
+            <li>
+               <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/vde.svg" width="32" align="vertical-align:middle"></a>
+               - Award for the best bachelor's thesis in the year 2022 given out by the VDE Düsseldorf
             </li>
          </ul>
          <b>Work</b>
