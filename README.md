@@ -75,14 +75,15 @@
          <ul>
             <li>
                <a href="https://hs-duesseldorf.de" target="_blank"><img src="assets/hsd.svg" width="32" align="vertical-align:middle"></a>
-               - Teaching Assistant (Software Engineering, Embedded Systems and Operating Systems).<br>(2020-2022)
+               <a href="https://hs-duesseldorf.de" target="_blank">University of Applied Sciences</a>
+               <span>- Teaching Assistant (Software Engineering, Embedded Systems and Operating Systems).<br>(2020-2022)</span>
             </li>
             <li>
                <img src="assets/dfind.png" width="24" height="24" align="top">
                <a href="https://dfind.com" target="_blank">dfind</a> / 
                <img src="assets/emmysoft.svg" width="24" height="24" align="top">
                <a href="https://emmysoft.com" target="_blank">EmmySoft</a>
-               - Full-Stack, DevOps Working Student. Responsible for developing a wide variaty of applications. <br> (2021-2022)
+               <span>- Full-Stack, DevOps Working Student. Responsible for developing a wide variaty of applications. <br> (2021-2022)</span>
             </li>
             <li>
                <img src="assets/emmysoft.svg" width="24" height="24" align="top">
