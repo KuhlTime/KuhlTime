@@ -15,7 +15,7 @@
          <b>About Me</b>
          <ul>
             <li>
-               ✨ Born in 1998 (24yo)
+               ✨ Born in 1998 (25yo)
             </li>
             <li>
                🌍 🇩🇪 Living in Langenfeld, Germany<br>(near Düsseldorf / Cologne)
