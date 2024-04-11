@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm André 👋</h1>
-<p align="center"><span>I'm a passionate <code>Developer</code> and <code>Engineer</code>.</span></p>
+<p align="center"><span>I'm a passionate <code>Developer</code> and <code>Engineer</code> working on Full-Stack applications and electroinics projects.</span></p>
 <h4 align="center" style="margin-top: 32px">
    <a href="https://kuhlti.me">Website</a>
    &bull;
