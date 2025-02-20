@@ -88,7 +88,12 @@
             <li>
                <img src="assets/emmysoft.svg" width="24" height="24" align="top">
                <a href="https://emmysoft.com" target="_blank">EmmySoft</a>
-               <span>- Software Engineer. Creating all sorts of wonderful software products. <br> (2022-today)</span>
+               <span>- Software Engineer. Creating all sorts of wonderful software products. <br> (2022-2024)</span>
+            </li>
+            <li>
+               <img src="assets/emmysoft.svg" width="24" height="24" align="top">
+               <a href="https://emmysoft.com" target="_blank">EmmySoft</a>
+               <span>- Senior Software Engineer / Scrum Master<br> (2024-today)</span>
             </li>
          </ul>
       </td>
