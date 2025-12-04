@@ -45,7 +45,7 @@
             </li>
             <li>
                <img src="assets/vue.svg" width="24" height="24" align="top">
-               <a href="https://github.com/vuejs" target="_blank">vuejs</a> - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
+               <a href="https://github.com/vuejs" target="_blank">vuejs / nuxt</a> - A progressive, incrementally-adoptable JavaScript framework for building UI on the web. 
             </li>
             <li>
                <img src="assets/python.svg" width="24" height="24" align="top">
